@@ -1,0 +1,38 @@
+#tabla
+    {
+        color: darkcyan;
+        border: 5px solid darkblue;
+        border-collapse: collapse;
+        background-color: lightblue;
+        font-family: Arial, Helvetica, sans-serif;
+    }
+
+.encabezado
+    {
+        color: grey;
+        font-family: 'Times New Roman', Times, serif;
+        font-size: 40px;
+        font-style: italic;
+        text-align: center;
+    }
+
+.link { font-family:'Courier New', Courier, monospace}
+.link:link { color: green }
+.link:visited { color: limegreen }
+.link:hover { color: darkgreen; text-decoration: none; }
+
+#formulario
+    {
+        color: black;
+        border: 5px solid darkblue;
+        background-color: lightblue;
+        font-family: Arial, Helvetica, sans-serif;
+    }
+
+.body
+    { font-family: Georgia, 'Times New Roman', Times, serif; }
+
+.modo
+    {
+        background-color: lightsteelblue;
+    }
